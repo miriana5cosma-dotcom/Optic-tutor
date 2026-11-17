@@ -80,3 +80,9 @@ Teachers remain responsible for educational supervision and for evaluating the a
 The main goal of OptiTutor is to explore how artificial intelligence and no-code automation can support teaching and learning in optical education.
 
 By combining accessible explanations, practical examples and short comprehension questions, the project offers students an additional opportunity to review concepts and develop greater confidence in their studies.
+
+9. Try OptiTutor
+
+You can access the educational assistant through the following link:(https://optictutor.app.n8n.cloud/webhook/2493199d-6415-42b3-bba2-2077d93d28c9/chat)
+
+Open OptiTutor – AI Assistant for Optics Students⁠￼
